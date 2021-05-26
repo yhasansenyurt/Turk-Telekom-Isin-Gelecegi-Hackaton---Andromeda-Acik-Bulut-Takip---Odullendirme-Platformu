@@ -9,4 +9,5 @@ Andromeda platformu, ödüllendirme yöntemi ile bu sorunları çözmeyi hedefle
 Çalışanlar görevlerini erken bitirerek ve sosyal etkinliklere katılarak şirketin belirlediği puan miktarlarını kazanabilir. 
 Bu puanları yine şirketin özel olarak belirlediği aylık, yıllık veya istenilen zamanda kullanılabilen ödüllere harcayabilir.
 ![image](https://user-images.githubusercontent.com/80919382/119645791-188fa080-be27-11eb-894b-f6ffec247fbd.png)
+
 Andromeda - Ana Sayfa
