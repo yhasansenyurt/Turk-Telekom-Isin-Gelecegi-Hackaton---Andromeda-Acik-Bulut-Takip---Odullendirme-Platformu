@@ -1,9 +1,9 @@
 # Turk-Telekom-Isin-Gelecegi-Hackaton---Andromeda-Acik-Bulut-Takip---Odullendirme-Platformu
 Andromeda web ve mobilden erişilebilen bir açık bulut platformudur. 
 Andromeda açık bulut sisteminin hedefi, uzaktan çalışma sistemlerinin çalışan ekibe ve yönetici ekibe getirmiş olduğu sorunları çözmektir: 
-Çalışan ekip takibinin zorluğu 
-Çalışanların yeterince sosyalleşememesi 
-Motivasyon eksikliği  
+Çalışan ekip takibinin zorluğu, 
+çalışanların yeterince sosyalleşememesi, 
+motivasyon eksikliği.  
 
 Andromeda platformu, ödüllendirme yöntemi ile bu sorunları çözmeyi hedefler. 
 Çalışanlar görevlerini erken bitirerek ve sosyal etkinliklere katılarak şirketin belirlediği puan miktarlarını kazanabilir. 
