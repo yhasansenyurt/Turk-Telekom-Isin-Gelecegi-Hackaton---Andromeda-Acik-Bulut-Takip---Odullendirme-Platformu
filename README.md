@@ -1,4 +1,8 @@
 # Turk Telekom Isin Gelecegi Hackaton: Andromeda Acik Bulut Takip-Odullendirme Platformu
+
+
+Hackathon for Turk Telekom Last 15 teams of 400 teams
+--
 Andromeda web ve mobilden erişilebilen bir açık bulut platformudur. 
 Andromeda açık bulut sisteminin hedefi, uzaktan çalışma sistemlerinin çalışan ekibe ve yönetici ekibe getirmiş olduğu sorunları çözmektir: 
 Çalışan ekip takibinin zorluğu, 
