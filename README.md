@@ -17,6 +17,8 @@ DETAYLARI ANDROMEDA SUNUM DOSYASINDAN BULABİLİRSİNİZ.
 
 DEMO VİDEOSU: https://youtu.be/Vs7zaOErWGI
 
+Takım Arkadaşları: Emre Ayar - Gülsüm İkbal Avşar
+
 ![image](https://user-images.githubusercontent.com/80919382/119645791-188fa080-be27-11eb-894b-f6ffec247fbd.png)
 
 Andromeda - Ana Sayfa
